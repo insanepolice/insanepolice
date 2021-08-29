@@ -1,4 +1,4 @@
-MadelineProto.log
+
 
 
 <?php
